@@ -1,0 +1,135 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}	
+.main_cont1{
+	min-height: 600px;
+	min-width: 600px;
+	background-image: url('C:/Users/Sachin/Desktop/projects/10-Practice-Project-Html-CSS-master/Project 3/images/image1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+.word1{
+	background: #313534;
+	color:#fff;
+	padding: 20px;
+}
+.main_cont2{
+	min-height: 600px;
+	min-width: 600px;
+	background-image: url('C:/Users/Sachin/Desktop/projects/10-Practice-Project-Html-CSS-master/Project 3/images/image2.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+.word2{
+	background: #313534;
+	color:#fff;
+	padding: 20px;
+}
+.main_cont3{
+	min-height: 600px;
+	min-width: 600px;
+	background-image: url('C:/Users/Sachin/Desktop/projects/10-Practice-Project-Html-CSS-master/Project 3/images/image3.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+.word3{
+	background: #313534;
+	color:#fff;
+	padding: 20px;
+}
+.main_cont4{
+	min-height: 600px;
+	min-width: 600px;
+	background-image: url('C:/Users/Sachin/Desktop/projects/10-Practice-Project-Html-CSS-master/Project 3/images/image1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+.word4{
+	background: #313534;
+	color:#fff;
+	padding: 20px;
+}
+.section1{
+	margin-top:50px ;
+
+	margin-bottom: 20px;
+	text-align: center;
+	font-family: "Lato", sans-serif;
+	color:#666;	
+}
+.section2{
+	margin-top:50px ;
+
+	margin-bottom: 20px;
+	text-align: center;
+	font-family: "Lato", sans-serif;
+	color:#666;	
+	line-height: 1.8em;
+}
+.section3{
+   
+	margin-bottom: 20px;
+	text-align: center;
+	font-family: "Lato", sans-serif;
+	color: #ddd;
+	
+}
+.section4{
+	margin-top:50px ;
+	
+	text-align: center;
+	font-family: "Lato", sans-serif;
+	color: #ddd;	
+	line-height: 1.8em;
+}
+.section5{
+	margin-top:50px ;
+
+	margin-bottom: 20px;
+	text-align: center;
+	font-family: "Lato", sans-serif;
+	color:#666;	
+}
+.section6{
+	margin-top:50px ;
+
+	margin-bottom: 20px;
+	text-align: center;
+	font-family: "Lato", sans-serif;
+	color:#666;	
+	line-height: 1.8em;
+}
+.section{
+	background: #282e34;;
+
+}
